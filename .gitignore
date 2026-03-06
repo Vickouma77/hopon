@@ -2,6 +2,8 @@ tmp
 .env
 .envrc
 bin/
+build/
+coverage/
 
 # Logs
 logs
